@@ -101,8 +101,8 @@ Recall (полнота) является для нас критически ва
 Все разработки ведутся с открытым исходным кодом и нацелены на свободное распространение среди поисково-спасательных отрядов, что соответствует духу сообщества и миссии проекта
 
 # Ссылки на телеграм бот и демо
-https://t.me/LizaAlertDetectorBot
-https://youtube.com/shorts/Ef8O3AG235A?si=9i3Dmc7GEPudPeTV
+- https://t.me/LizaAlertDetectorBot
+- https://youtube.com/shorts/Ef8O3AG235A?si=9i3Dmc7GEPudPeTV
 
 
 # Примеры детектированных изображений
